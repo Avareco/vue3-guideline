@@ -1,0 +1,18 @@
+{
+  "semi": true,
+  "singleQuote": false,
+  "singleAttributePerLine": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "arrowParens": "avoid",
+  "vue/component-name-in-template-casing": [
+    "error",
+    "kebab-case",
+    {
+      "registeredComponentsOnly": true,
+      "ignores": []
+    }
+  ],
+  "htmlWhitespaceSensitivity": "ignore"
+}
